@@ -13,6 +13,6 @@ print(123_456_789)
 # Float - Floating Point Number
 print(3.14159)
 
-# Boolean - True / False
+# Boolean - True / False : It doesn't comes with quotes
 print(True)
 print(False)
