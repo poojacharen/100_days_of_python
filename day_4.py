@@ -4,7 +4,7 @@
 
 import random
 
-# Random Whole Numbers within a range
+# Random Whole Numbers within a range : random.randint()
 
 random_integer = random.randint(1,10)
 print(random_integer)
